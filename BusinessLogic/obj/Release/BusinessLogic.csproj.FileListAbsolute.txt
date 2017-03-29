@@ -1,0 +1,9 @@
+C:\ToyStore\BusinessLogic\bin\Release\BusinessLogic.dll.config
+C:\ToyStore\BusinessLogic\bin\Release\BusinessLogic.dll
+C:\ToyStore\BusinessLogic\bin\Release\BusinessLogic.pdb
+C:\ToyStore\BusinessLogic\bin\Release\EntityFramework.dll
+C:\ToyStore\BusinessLogic\bin\Release\EntityFramework.SqlServer.dll
+C:\ToyStore\BusinessLogic\bin\Release\EntityFramework.xml
+C:\ToyStore\BusinessLogic\bin\Release\EntityFramework.SqlServer.xml
+C:\ToyStore\BusinessLogic\obj\Release\BusinessLogic.dll
+C:\ToyStore\BusinessLogic\obj\Release\BusinessLogic.pdb

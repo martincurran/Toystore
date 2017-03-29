@@ -1,0 +1,23 @@
+﻿@model  WebStore.Models.ProductListModel
+
+@{
+    ViewBag.Title = "Products List";
+    //Layout = "_Layout";
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+<p> The number of products Available: @Model.AllProducts.Count</p>
+
+@foreach (var product in  Model.AllProducts)
+{
+    <p>
+        <h2>Product name: @product.ProductName</h2><br/>>
+        @product.Description
+        <br/>
+        <strong>Price: @product.Price</strong>
+        <br/>
+        <img src="@product.mageUrl" width="200" height="200" />
+    </p>
+}

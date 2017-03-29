@@ -1,0 +1,14 @@
+C:\ToyStore\ToystoreDB\bin\Debug\ToystoreDB.dacpac
+C:\ToyStore\ToystoreDB\bin\Debug\ToystoreDB.dll
+C:\ToyStore\ToystoreDB\bin\Debug\ToystoreDB.pdb
+C:\ToyStore\ToystoreDB\obj\Debug\ToystoreDB.dll
+C:\ToyStore\ToystoreDB\obj\Debug\ToystoreDB.pdb
+C:\ToyStore\ToystoreDB\obj\Debug\Model.xml
+C:\ToyStore\ToystoreDB\obj\Debug\refactor.xml
+C:\ToyStore\ToystoreDB\obj\Debug\postdeploy.sql
+C:\ToyStore\ToystoreDB\obj\Debug\predeploy.sql
+C:\ToyStoreRelease\ToystoreDB\bin\Debug\ToystoreDB.dacpac
+C:\ToyStoreRelease\ToystoreDB\bin\Debug\ToystoreDB.dll
+C:\ToyStoreRelease\ToystoreDB\bin\Debug\ToystoreDB.pdb
+C:\ToyStoreRelease\ToystoreDB\obj\Debug\ToystoreDB.dll
+C:\ToyStoreRelease\ToystoreDB\obj\Debug\ToystoreDB.pdb
